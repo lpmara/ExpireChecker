@@ -1,0 +1,10 @@
+[General]
+DisplayName=PIYANUT SRISUTHAM
+WebMail-StartupPage=AccountSummary
+WebMail-WatermarkURL=Watermarks/Sky.jpg
+WebMail-InterfaceOpacity=0.8
+SMTP-Inbound-Message-Usage=1436496595:8
+WebMail-MailboxExpanded=0
+WebMail-PublicFoldersExpanded=0
+WebMail-SharesExpanded=0
+WebMail-MyFilesExpanded=0
