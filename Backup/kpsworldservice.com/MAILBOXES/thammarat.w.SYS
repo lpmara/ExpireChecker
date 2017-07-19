@@ -1,7 +1,0 @@
-[General]
-DisplayName=Sydney Thammarat
-WebMail-StartupPage=AccountSummary
-WebMail-PersonalisationEnabled=1
-WebMail-WatermarkURL=Watermarks/Blue.jpg
-WebMail-InterfaceOpacity=0.8
-SMTP-Inbound-Message-Usage=1470195346:1

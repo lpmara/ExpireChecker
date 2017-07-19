@@ -1,9 +1,0 @@
-[General]
-DisplayName=Nopparat
-WebMail-StartupPage=AccountSummary
-WebMail-WatermarkURL=Watermarks/Sky.jpg
-WebMail-InterfaceOpacity=0.8
-WebMail-MailboxExpanded=1
-WebMail-PublicFoldersExpanded=0
-WebMail-SharesExpanded=0
-WebMail-MyFilesExpanded=0
